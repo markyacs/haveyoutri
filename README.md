@@ -1,2 +1,0 @@
-# haveyoutri
-Triathlon blog
